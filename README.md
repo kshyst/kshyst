@@ -13,7 +13,7 @@
 </div>
 <body>
       <h1>
-        My Language And Tools
+        My Languages And Tools
       </h1>
       <div>
           <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS" alt="VS" width="40" height="40"/>&nbsp;
