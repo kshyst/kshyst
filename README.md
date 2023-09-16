@@ -4,7 +4,8 @@
   </h1>
 </div>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kshyst&theme=chartreuse-dark" width="379"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshyst&theme=chartreuse-dark" width="300"/>
   <br></br>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
