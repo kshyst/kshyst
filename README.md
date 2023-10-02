@@ -26,7 +26,14 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
           <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/premierepro/premierepro-original.svg" title="Premiere" alt="Premiere" width="40" height="40"/>&nbsp;
           <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/wordpress/wordpress-plain.svg" title="WP" alt="WP" width="40" height="40"/>&nbsp;
-          <img src="https://github.com/kshyst/kshyst/blob/main/steam-icon-2048x2048-rbyixh0f.png" title="Steam" alt="Steam" width="40" height="40"/>&nbsp;
           <img src="https://github.com/kshyst/kshyst/blob/main/fc918daaaabaf72920a240177aa1b521ace8488d.png" title="Aseprite" alt="Aseprite" width="40"/>&nbsp;
+      </div>
+      <h1>
+        My Certificates
+      </h1>
+      <div>
+        <a href="https://www.daneshjooyar.com/cf/Y7ILy1Ouhx/">
+            <img  src="https://github.com/kshyst/kshyst/blob/main/7238706.png" title="C# Certificate" alt="C# Certificate" width="40" />&nbsp;
+        </a>
       </div>
 </body>
