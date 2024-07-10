@@ -6,7 +6,7 @@
 <div id="header" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kshyst&theme=chartreuse-dark"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshyst&theme=chartreuse-dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshyst&theme=chartreuse-dark" width="451"/>
   <br></br>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
