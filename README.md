@@ -1,6 +1,6 @@
 <div id="header" align="center" >
   <h1>
-    KSHyst
+    💻 KSHyst 💻
   </h1>
 </div>
 <div id="header" align="center">
