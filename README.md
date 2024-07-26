@@ -1,9 +1,7 @@
-<div id="header" align="center" >
+<div id="header" align="center">
   <h1>
     💻 KSHyst 💻
-  </h1>
-</div>
-<div id="header" align="center">
+</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=kshyst&theme=neon"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshyst&theme=neon" width="451"/>
@@ -11,6 +9,9 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 <body>
+      <div align="center">
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJhN2szYjZ6NWJwdml6bHF3eWZ0a2N3eG4zcjFsc2FjdzN1MXc5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cOuicQ76wVerrysrRu/giphy.gif" width="600" height="300"/>
+      </div>
       <h1 align="center">
         Tools And Languages I Use
       </h1>
