@@ -35,4 +35,3 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp;
       </div>
 </body>
-
