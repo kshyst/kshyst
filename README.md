@@ -9,8 +9,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,go,docker,nginx,django,arch,ubuntu,git" />
-    <img src="https://skillicons.dev/icons?i=bash,latex,unity,mongodb,java,postgres" /><br>
+    <img src="https://skillicons.dev/icons?i=go,django,c,cpp,cs,python,redis,docker,arch,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=latex,mongodb,java,postgres" /><br>
 </div>
 
 <br/>
