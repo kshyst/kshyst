@@ -11,7 +11,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=go,django,c,cpp,cs,python,redis,docker,arch,ubuntu" />
-    <img src="https://skillicons.dev/icons?i=latex,mongodb,java,postgres" /><br>
+    <img src="https://skillicons.dev/icons?i=latex,mongodb,java,postgres,graphql" /><br>
 </div>
 
 <br/>
